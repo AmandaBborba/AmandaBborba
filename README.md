@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @AmandaBborba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Amanda🐢💪
+- I’m a high school student😜
+- I’m takinkig alura course😁
+- I’m here to learn new programming languages👩‍💻
+- I took classes in JavaScript and Scratch🤯
+- I’m from Brazil!!!🇧🇷
+< My contact email is (email)[amanda.benjamin.borba@escola.pr.gov.br]
 
-<!---
-AmandaBborba/AmandaBborba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
