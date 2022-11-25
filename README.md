@@ -4,5 +4,5 @@
 - I’m here to learn new programming languages👩‍💻
 - I took classes in JavaScript and Scratch🤯
 - I’m from Brazil!!!🇧🇷
-< My contact email is (email)[amanda.benjamin.borba@escola.pr.gov.br]
+< My contact email is [email](amanda.benjamin.borba@escola.pr.gov.br)
 
